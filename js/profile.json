@@ -1,17 +1,15 @@
 {
 	"personalInfo": {
 		"myimg": "image.jpg",
-		"fname": "Shubham",
-		"mname": "Parashram",
-		"lname": "Sawant",
-		"nick":"moghya",
+		"fname": "Vivek",
+		"lname": "Bansal",
+		"nick": "Vivz",
 		"address": {
-			"list": ["Gupta Layout, Mahakali road, Washim, District-Washim, Maharashtra, India 444505 ",
-				"'OM' Jaihind colony, Vishrambag, Sangli District-Sangli, Maharashtra, India 416415"
+			"list": ["700 Health Sciences Drive, Chapin Commons, Stony Brook, NY 11790, United States "
 			]
 		},
-		"email": "sawantshubham571@gmail.com",
-		"mob": "+919881464434"
+		"email": "vbansal@cs.stonybrook.edu",
+		"mob": "+1 631-977-2010"
 	},
 	"educations": [
 		{
