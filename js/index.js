@@ -39,9 +39,17 @@ function loadEducations(educations){
 			return a.sn-b.sn;
 		});
 		var coursesInnerHTML = '';
+		if(i == 2 || i == 2){
 		for(j=0;j<courses.length;j++){
 				coursesInnerHTML+='<div class="row"><div class="col m2 s2">'+courses[j].courseCode+'</div><div class="col m8 s8">'+courses[j].courseName+'</div><div class="col m2 s2">'+courses[j].courseScore+'</div></div>';
 		}
+	}
+	else{
+		for(j=0;j<courses.length;j++){
+			coursesInnerHTML+='<div class="row"><div class="col m2 s2">'+courses[j].courseCode+'</div><div class="col m8 s8">'+courses[j].courseName;
+	}
+	}
+
 		education+=coursesInnerHTML;
 		education +='</div></li></ul></div></div>';
 		educationsInnerHTML+=education;

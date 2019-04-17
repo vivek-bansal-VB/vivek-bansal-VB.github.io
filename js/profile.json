@@ -19,6 +19,7 @@
 			"course": "MS in Computer Science",
 			"score": "3.6 CGPA",
 			"inst": "Stony Brook University",
+			"board": "State University of New York",
 			"courses": [
 				{
 					"courseCode": "CSE-535",
@@ -77,6 +78,7 @@
 			"course": "B.Tech in Computer Science",
 			"score": "74.75%",
 			"inst": "Delhi Technological University",
+			"board": "Delhi Technological University",
 			"courses": [{
 					"courseCode": "CO-201",
 					"courseName": "Object Oriented Programming",
