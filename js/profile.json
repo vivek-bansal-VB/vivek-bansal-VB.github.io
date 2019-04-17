@@ -172,19 +172,16 @@
 			"courses": [{
 					"courseCode": "041",
 					"courseName": "Mathematics",
-					"courseScore": "95/100",
 					"sn": 1
 				},
 				{
 					"courseCode": "042",
 					"courseName": "Physics",
-					"courseScore": "94/100",
 					"sn": 2
 				},
 				{
 					"courseCode": "043",
 					"courseName": "Chemistry",
-					"courseScore": "94/100",
 					"sn": 3
 				}
 			]
@@ -200,13 +197,11 @@
 			"courses": [{
 					"courseCode": "041",
 					"courseName": "Mathematics",
-					"courseScore": "100/100",
 					"sn": 1
 				},
 				{
 					"courseCode": "086",
 					"courseName": "Science",
-					"courseScore": "93/100",
 					"sn": 2
 				}
 			]
