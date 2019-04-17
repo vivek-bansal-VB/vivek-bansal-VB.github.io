@@ -584,65 +584,36 @@
 	"summary": "Hi, I’m Vivek. I am pursuing my Master's degree in Computer Science from Stony Brook University(SUNY) in New York. I will be graduating in December 2019 and actively looking for a full-time position in the software development role. My interest areas are Distributed Systems, Machine Learning, Data Science, Big Data, Operating Systems, Algorithms, and Software Development. ",
 	"profileLinks": [
 		{
-			"name": "Facebook",
-			"icon": "facebook.svg",
-			"link": "https://www.facebook.com/moghya",
-			"sn":9
-		},
-		{
 			"name": "Github",
 			"icon": "github.svg",
-			"link": "https://github.com/moghya",
+			"link": "https://github.com/vivek-bansal-VB",
 			"sn":1
 		},
 		{
 			"name": "LinkedIn",
 			"icon": "linkedin.svg",
-			"link": "https://www.linkedin.com/in/shubham-sawant-67074a86/",
+			"link": "https://www.linkedin.com/in/vivek-bansal",
 			"sn":2
 		},
 		{
-			"name": "Codeforces",
-			"icon": "codeforces.svg",
-			"link": "http://codeforces.com/profile/sawant",
-			"sn":3
+			"name": "Facebook",
+			"icon": "facebook.svg",
+			"link": "https://www.facebook.com/vivek.bansal.9404",
+			"sn":5
 		},
 		{
 			"name": "Codechef",
 			"icon": "codechef.png",
-			"link": "https://www.codechef.com/users/moghya",
+			"link": "https://www.codechef.com/users/vb8711",
 			"sn":4
 		},
 		{
-			"name": "Hackerrank",
-			"icon": "hackerrank.svg",
-			"link": "https://www.hackerrank.com/moghya",
-			"sn":5
-		},
-		{
-			"name": "Hackerearth",
-			"icon": "hackerearth.png",
-			"link": "https://www.hackerearth.com/@moghya",
-			"sn":6
-		},
-		{
-			"name": "Medium",
-			"icon": "medium.svg",
-			"link": "https://medium.com/howcatcancode",
-			"sn":7
-		},	
-		{
-			"name": "Quora",
-			"icon": "quora.svg",
-			"link": "https://www.quora.com/profile/Shubham-Sawant-5",
-			"sn":8
-		},	
-		{
-			"name": "Twitter",
-			"icon": "twitter.svg",
-			"link": "https://twitter.com/moghya",
-			"sn":10
-		}
+			"name": "Leetcode",
+			"icon": "leetcode.png",
+			"link": "https://leetcode.com/vivek_bansal/",
+			"sn":3
+		}	
+	
 	],
 	"likes":[
 		{
