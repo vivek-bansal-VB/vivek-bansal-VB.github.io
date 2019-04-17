@@ -167,6 +167,7 @@
 			"periodEnd": "May 2010",
 			"course": "All India Secondary School Certificate Examination",
 			"score": "94.33%",
+			"inst": "Bal Bhavan Public School",
 			"board": "CBSE Board",
 			"courses": [{
 					"courseCode": "041",
@@ -194,6 +195,7 @@
 			"periodEnd": "May 2008",
 			"course": "All India Secondary School Examination",
 			"score": "93.80%",
+			"inst": "Bal Bhavan Public School",
 			"board": "CBSE Board",
 			"courses": [{
 					"courseCode": "041",
