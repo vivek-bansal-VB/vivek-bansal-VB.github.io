@@ -24,41 +24,49 @@
 					"courseCode": "CSE-535",
 					"courseName": "Asynchronous Systems",
 					"sn": 1
+
 				},
 				{
 					"courseCode": "CSE-548",
 					"courseName": "Analysis of Algorithms",
 					"sn": 2
+
 				},
 				{
 					"courseCode": "CSE-537",
 					"courseName": "Artificial Intelligence",
 					"sn": 3
+
 				},
 				{
 					"courseCode": "CSE-519",
 					"courseName": "Data Science ",
 					"sn": 4
+
 				},
 				{
 					"courseCode": "CSE-506",
 					"courseName": "Operating Systems",
 					"sn": 5
+
 				},
 				{
 					"courseCode": "CSE-527",
 					"courseName": "Computer Vision",
 					"sn": 6
+
 				},
 				{
 					"courseCode": "AMS-560",
 					"courseName": "Big Data Systems, Algorithms and Networks",
 					"sn": 7
+
 				},
 				{
 					"courseCode": "CSE-642",
 					"courseName": "Seminar in Algorithms (Algorithms Reading Group)",
 					"sn": 8
+
 				}
 			]
 		},
@@ -276,7 +284,6 @@
 			"experience": "My key responsibilities were to implement the data structures and algorithms used in Media Management Layer (MML) to efficiently store and retrieve the data from Nand memory."
 		}
 	],
-	
 	"summary": "Hi, I’m Vivek. I am pursuing my master's degree in computer science from Stony Brook University(SUNY) in New York. I will be graduating in December 2019 and actively looking for a full-time position in the software development role. My interest areas are Distributed Systems, Machine Learning, Data Science, Big Data, Operating Systems, Algorithms, and Software Development. ",
 	"profileLinks": [
 		{
