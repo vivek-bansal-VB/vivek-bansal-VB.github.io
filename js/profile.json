@@ -581,7 +581,7 @@
 			"link":"https://github.com/moghya/toGithub"
 		}
 	],
-	"summary": "Hi, I’m Shubham. I believe in Maths. I seek to learn and try to apply all that I learn in a way that makes life easier. I can design and develop technology solutions. Mathematics, Algorithms, Data Structures  and Machine Learning are my areas of Interest. I'm looking for an Internship where I can learn and grow by using my tech skills and make this world a better place.",
+	"summary": "Hi, I’m Vivek. I am pursuing my master's degree in computer science from Stony Brook University(SUNY) in New York. I will be graduating in December 2019 and actively looking for a full-time position in the software development role. My interest areas are Distributed Systems, Machine Learning, Data Science, Big Data, Operating Systems, Algorithms, and Software Development. ",
 	"profileLinks": [
 		{
 			"name": "Facebook",
@@ -698,9 +698,9 @@
 
 	],
 	"qoutes": [
-		"Every day every hour turn the pain into power.",
-		"If you cannot be a pencil to write someone's happiness, then try to be an erases to erase someone's sorrows.",
-		"Tabs are better than spaces."
+		"while ( !(succeed == try() ) );",
+		"Talk is CHEAP. Show me the CODE.",
+		"Bad programmers worry about the code. Good programmers worry about data structures and their relationships."
 	],
-	"helloText":"<p>Thanks for visiting my webspace.</p><p>Currently I'm working as Software Engineer at <a href='http://media.net'>Media.Net. <strike>studying B.Tech Information Technology  at Walchand College of Engineering Sangli</strike>. I do Web development, Machine Learning and Computer Algorithms.I overwhelmingly like C++, Python and Javascript :)</p><p>How can I help you ?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common ?</br>Let's have a talk about it and grow together.</br> We don't have anything in common ?</br>Oh then that's great, please introduce me something that I'm missing.</p>"
+	"helloText":"<p>Thanks for visiting my webspace.</p><p> I like C, C++, Java and Python:)</p><p>How can I help you ?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common ?</br>Let's have a talk about it and grow together.</br> We don't have anything in common ?</br>Oh then that's great, please introduce me something that I'm missing.</p>"
 }
