@@ -17,6 +17,38 @@ function loadSkills(skills){
 		$('#skills').html(skillsInnerHTML);
 }
 
+function loadWorks(works){
+	works.sort(function(a,b){
+		return a.sn-b.sn;
+	});
+	var i;
+	var worksInnerHTML = '';
+	for(i=0;i<works.length;i++){
+		worksInnerHTML+='<div class="row work"><div class="col m6 s12"><div class="row title">'+works[i].workPosition+'<hr></div><div class="row">'+ works[i].periodStart+ '-' + works[i].periodEnd +'</div><div class="row"><a href="'+works[i].link+'">'+works[i].organisation+'</a></div></div><div class="col m6 s12 details"><div class="row">'+works[i].experience+'</div></div></div>';
+	}
+	$('#experience').html(worksInnerHTML);
+}
+
+function loadEducations(educations){
+	var i=0,j;
+	var educationsInnerHTML = '';
+	for(i=0;i<educations.length;i++){
+		education = '<div class="row education"><div class="col m6 s12">					<div class="row title">'+educations[i].course+'<hr></div><div class="row">'+educations[i].periodStart+'-'+educations[i].periodEnd+'</div><div class="row">'+educations[i].inst+'</div><div class="row">'+educations[i].board+'</div>		<div class="row">Scored: '+educations[i].score+'</div></div><div class="col m6 s12 details"><ul class="collapsible" data-collapsible="accordion"><li><div class="collapsible-header"><i class="material-icons">view_list</i>Completed following Core courses</div><div class="collapsible-body">';
+		var courses = educations[i].courses;
+		courses.sort(function(a,b){
+			return a.sn-b.sn;
+		});
+		var coursesInnerHTML = '';
+		for(j=0;j<courses.length;j++){
+				coursesInnerHTML+='<div class="row"><div class="col m2 s2">'+courses[j].courseCode+'</div><div class="col m8 s8">'+courses[j].courseName+'</div><div class="col m2 s2">'+courses[j].courseScore+'</div></div>';
+		}
+		education+=coursesInnerHTML;
+		education +='</div></li></ul></div></div>';
+		educationsInnerHTML+=education;
+	}
+	$('#education').html(educationsInnerHTML);
+}
+
 function loadProjects(projects){
 	projects.sort(function(a,b){
 		return a.sn-b.sn;
@@ -39,18 +71,6 @@ function loadProjects(projects){
 		projectsInnerHTML+=project;
 	}
 	$('#projects').html(projectsInnerHTML);
-}
-
-function loadWorks(works){
-	works.sort(function(a,b){
-		return a.sn-b.sn;
-	});
-	var i;
-	var worksInnerHTML = '';
-	for(i=0;i<works.length;i++){
-		worksInnerHTML+='<div class="row work"><div class="col m6 s12"><div class="row title">'+works[i].workPosition+'<hr></div><div class="row">'+ works[i].periodStart+ '-' + works[i].periodEnd +'</div><div class="row"><a href="'+works[i].link+'">'+works[i].organisation+'</a></div></div><div class="col m6 s12 details"><div class="row">'+works[i].experience+'</div></div></div>';
-	}
-	$('#experience').html(worksInnerHTML);
 }
 
 function loadEducations(educations){
