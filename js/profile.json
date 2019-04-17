@@ -656,44 +656,34 @@
 			"sn":2
 		},
 		{
-			"name":"Armed Forces",
-			"icon":"soldier.svg",
+			"name":"Reading",
+			"icon":"book.svg",
 			"sn":3
 		},
 		{
-			"name":"Reading",
-			"icon":"book.svg",
+			"name":"Cricket",
+			"icon":"cricket.svg",
 			"sn":4
 		},
 		{
-			"name":"Singing",
-			"icon":"singer.svg",
+			"name":"Songs",
+			"icon":"songs.svg",
 			"sn":5
 		},
 		{
-			"name":"Watermelon",
-			"icon":"watermelon.svg",
+			"name":"Gym",
+			"icon":"gym.svg",
 			"sn":6
-		},
-		{
-			"name":"Chicken",
-			"icon":"chicken.svg",
-			"sn":7
 		},
 		{
 			"name":"Cycling",
 			"icon":"cycling.svg",
-			"sn":8
+			"sn":7
 		},
 		{
 			"name":"Trekking",
 			"icon":"trek.svg",
-			"sn":9
-		},
-		{
-			"name":"Camping",
-			"icon":"tent.svg",
-			"sn":10
+			"sn":8
 		}
 
 	],
