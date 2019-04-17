@@ -103,13 +103,6 @@ function loadLikes(likes){
 }
 
 var profile;
-	swal(
-		{
-			title:"helloWorld!!!",
-			text:"Hello visitor, you have landed upon little webspace of moghya.",
-			confirmButtonColor:"#1f1f1f"
-		}
-	);
 $.get("js/profile.json", 
 	function(data, status){
 		profile = data;
