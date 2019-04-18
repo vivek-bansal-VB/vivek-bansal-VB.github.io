@@ -14,306 +14,223 @@
 	"educations": [
 		{
 
-			"periodStart": "July 2014",
-			"periodEnd": "May 2018",
-			"course": "B.Tech Information Technology",
-			"score": "7.59 CGPA",
-			"inst": "Walchand College of Engineering, Sangli",
-			"board": "Shivaji University",
+			"periodStart": "August 2018",
+			"periodEnd": "December 2019",
+			"course": "MS in Computer Science",
+			"score": "3.6 CGPA",
+			"inst": "Stony Brook University",
+			"board": "State University of New York",
 			"courses": [
 				{
-					"courseCode": "3IT202",
-					"courseName": "Data Structures",
-					"courseScore": "9/10",
+					"courseCode": "CSE-535",
+					"courseName": "Asynchronous Systems",
+					"courseScore": "B",
 					"sn": 1
 
 				},
 				{
-					"courseCode": "3IT304",
-					"courseName": "Computer Algorithms",
-					"courseScore": "7/10",
+					"courseCode": "CSE-548",
+					"courseName": "Analysis of Algorithms",
+					"courseScore": "A",
 					"sn": 2
 
 				},
 				{
-					"courseCode": "3IT331",
-					"courseName": "Machine Learning",
-					"courseScore": "10/10",
+					"courseCode": "CSE-537",
+					"courseName": "Artificial Intelligence",
+					"courseScore": "A-",
 					"sn": 3
 
 				},
 				{
-					"courseCode": "3OE---",
-					"courseName": "Data Analytics",
-					"courseScore": "8/10",
+					"courseCode": "CSE-519",
+					"courseName": "Data Science ",
+					"courseScore": "A-",
 					"sn": 4
 
 				},
 				{
-					"courseCode": "3IT211",
-					"courseName": "Theory of Computation",
-					"courseScore": "8/10",
+					"courseCode": "CSE-506",
+					"courseName": "Operating Systems",
+					"courseScore": "-",
 					"sn": 5
 
 				},
 				{
-					"courseCode": "3IT201",
-					"courseName": "Discrete Mathemactics",
-					"courseScore": "7/10",
+					"courseCode": "CSE-527",
+					"courseName": "Computer Vision",
+					"courseScore": "-",
 					"sn": 6
 
 				},
 				{
-					"courseCode": "3IT303",
-					"courseName": "Operating System",
-					"courseScore": "8/10",
-					"sn": 10
-
-				},
-				{
-					"courseCode": "3IT322",
-					"courseName": "Unix Operating System",
-					"courseScore": "8/10",
-					"sn": 11
-
-				},
-				{
-					"courseCode": "3IT301",
-					"courseName": "Database Engineering",
-					"courseScore": "9/10",
-					"sn": 12
-
-				},
-				{
-					"courseCode": "3IT321",
-					"courseName": "Advanced Database Engineering",
-					"courseScore": "9/10",
-					"sn": 13
-
-				},
-				{
-					"courseCode": "3IT204",
-					"courseName": "Data Communication and Networking",
-					"courseScore": "7/10",
-					"sn": 15
-
-				},
-				{
-					"courseCode": "3IT213",
-					"courseName": "Computer and Wireless Networks",
-					"courseScore": "6/10",
-					"sn": 16
-
-				},
-				{
-					"courseCode": "3IT263",
-					"courseName": "Computer and Wireless Networks Lab",
-					"courseScore": "8/10",
-					"sn": 34
-
-				},
-				{
-					"courseCode": "3IT212",
-					"courseName": "Computer Organization and Architechture",
-					"courseScore": "7/10",
-					"sn": 18
-
-				},
-				{
-					"courseCode": "3IT372",
-					"courseName": "Parallel Programming Lab",
-					"courseScore": "10/10",
-					"sn": 32
-
-				},
-				{
-					"courseCode": "3IT324",
-					"courseName": "Information Storage and Management",
-					"courseScore": "6/10",
-					"sn": 21
-
-				},
-				{
-					"courseCode": "3MA204",
-					"courseName": "Linear Algebra",
-					"courseScore": "7/10",
+					"courseCode": "AMS-560",
+					"courseName": "Big Data Systems, Algorithms and Networks",
+					"courseScore": "-",
 					"sn": 7
 
 				},
 				{
-					"courseCode": "3MA215",
-					"courseName": "Statistics and Fuzzy Systems",
-					"courseScore": "6/10",
+					"courseCode": "CSE-642",
+					"courseName": "Seminar in Algorithms (Algorithms Reading Group)",
+					"courseScore": "-",
 					"sn": 8
-
-				},
-				{
-					"courseCode": "3IT252",
-					"courseName": "Data Structures Lab",
-					"courseScore": "10/10",
-					"sn": 29
-
-				},
-				{
-					"courseCode": "3IT203",
-					"courseName": "Processor Architechture",
-					"courseScore": "7/10",
-					"sn": 17
-
-
-				},
-				{
-					"courseCode": "3IT281",
-					"courseName": "Mini Project - I",
-					"courseScore": "10/10",
-					"sn": 22
-
-				},
-				{
-					"courseCode": "3IT214",
-					"courseName": "System Programming",
-					"courseScore": "7/10",
-					"sn": 19
-
-				},
-				{
-					"courseCode": "3IT255",
-					"courseName": "Programming Lab - I (C++)",
-					"courseScore": "10/10",
-					"sn": 26
-
-				},
-				{
-					"courseCode": "3IT352",
-					"courseName": "Web Technology Lab",
-					"courseScore": "9/10",
-					"sn": 33
-
-				},
-				{
-					"courseCode": "3IT342",
-					"courseName": "Mini Project - IV",
-					"courseScore": "10/10",
-					"sn": 25
-
-				},
-				{
-					"courseCode": "3IT341",
-					"courseName": "Mini-Project - III",
-					"courseScore": "10/10",
-					"sn": 24
-
-				},
-				{
-					"courseCode": "3IT302",
-					"courseName": "Software Engineering Design",
-					"courseScore": "7/10",
-					"sn": 20
-
-				},
-				{
-					"courseCode": "3IT371",
-					"courseName": "Unix Operating System Lab",
-					"courseScore": "10/10",
-					"sn": 30
-
-				},
-				{
-					"courseCode": "3IT282",
-					"courseName": "Mini Project - II",
-					"courseScore": "10/10",
-					"sn": 23
-
-				},
-				{
-					"courseCode": "3IT265",
-					"courseName": "Programming Lab - II (Java)",
-					"courseScore": "10/10",
-					"sn": 27
-
-				},
-				{
-					"courseCode": "3IT312",
-					"courseName": "Cloud Computing",
-					"courseScore": "7/10",
-					"sn": 14
-
-				},
-				{
-					"courseCode": "3IT323",
-					"courseName": "Information Theory",
-					"courseScore": "8/10",
-					"sn": 9
-
-				},
-				{
-					"courseCode": "2IT253",
-					"courseName": "Processor Architechture Lab",
-					"courseScore": "10/10",
-					"sn": 28
-
-				},
-				{
-					"courseCode": "3IT351",
-					"courseName": "Database Engineering Lab",
-					"courseScore": "10/10",
-					"sn": 31
 
 				}
 			]
 		},
 		{
 
-			"periodStart": "April 2013",
+			"periodStart": "August 2010",
 			"periodEnd": "May 2014",
-			"course": "All India Senior School Examination",
-			"score": "89.4%",
-			"inst": "Jawahar Navodaya Vidyalaya,Washim",
-			"board": "CBSE Chennai",
+			"course": "B.Tech in Computer Science",
+			"score": "74.75%",
+			"inst": "Delhi Technological University",
+			"board": "Delhi Technological University",
+			"courses": [{
+					"courseCode": "CO-201",
+					"courseName": "Object Oriented Programming",
+					"courseScore": "84/100",
+					"sn": 1
+				},
+				{
+					"courseCode": "CO-203",
+					"courseName": "Data Structure",
+					"courseScore": "84/100",
+					"sn": 2
+				},
+				{
+					"courseCode": "CO-211",
+					"courseName": "Data Base Management System",
+					"courseScore": "66/100",
+					"sn": 3
+				},
+				{
+					"courseCode": "CO-213",
+					"courseName": "Operating System Design",
+					"courseScore": "72/100",
+					"sn": 4
+				},
+				{
+					"courseCode": "CO-214",
+					"courseName": "Algorithms Design and Analysis",
+					"courseScore": "95/100",
+					"sn": 5
+				},
+				{
+					"courseCode": "CO-301",
+					"courseName": "Computer Graphics",
+					"courseScore": "75/100",
+					"sn": 6
+				},
+				{
+					"courseCode": "CO-303",
+					"courseName": "Theory of Computation",
+					"courseScore": "87/100",
+					"sn": 7
+				},
+				{
+					"courseCode": "CO-305",
+					"courseName": "Computer Network",
+					"courseScore": "63/100",
+					"sn": 8
+				},
+				{
+					"courseCode": "CO-311",
+					"courseName": "Mobile Computing",
+					"courseScore": "81/100",
+					"sn": 9
+				},
+				{
+					"courseCode": "CO-312",
+					"courseName": "Compiler Design",
+					"courseScore": "86/100",
+					"sn": 10
+				},
+				{
+					"courseCode": "CO-313",
+					"courseName": "Web Technology and Java Programming",
+					"courseScore": "69/100",
+					"sn": 11
+				},
+				{
+					"courseCode": "CO-314",
+					"courseName": "Information and Network Security",
+					"courseScore": "83/100",
+					"sn": 12
+				},
+				{
+					"courseCode": "CO-401",
+					"courseName": "Artificial Intelligence",
+					"courseScore": "78/100",
+					"sn": 13
+				},
+				{
+					"courseCode": "CO-4031",
+					"courseName": "Distributed Computing Systems",
+					"courseScore": "64/100",
+					"sn": 14
+				},
+				{
+					"courseCode": "CO-4044",
+					"courseName": "Neural Network and Fuzzy Logic",
+					"courseScore": "79/100",
+					"sn": 15
+				},
+				{
+					"courseCode": "CO-411",
+					"courseName": "Data Warehousing and Mining",
+					"courseScore": "84/100",
+					"sn": 16
+				}
+			]
+		},
+		{
+
+			"periodStart": "April 2008",
+			"periodEnd": "May 2010",
+			"course": "All India Secondary School Certificate Examination",
+			"score": "94.33%",
+			"inst": "Bal Bhavan Public School",
+			"board": "CBSE Board",
 			"courses": [{
 					"courseCode": "041",
-					"courseName": "Mathemactics",
-					"courseScore": "86/100",
+					"courseName": "Mathematics",
+					"courseScore": "95/100",
 					"sn": 1
 				},
 				{
 					"courseCode": "042",
 					"courseName": "Physics",
-					"courseScore": "87/100",
+					"courseScore": "94/100",
 					"sn": 2
 				},
 				{
 					"courseCode": "043",
 					"courseName": "Chemistry",
-					"courseScore": "86/100",
-					"sn": 3
-				},
-				{
-					"courseCode": "083",
-					"courseName": "Computer Science",
 					"courseScore": "94/100",
-					"sn": 4
+					"sn": 3
 				}
 			]
 		},
 		{
 
-			"periodStart": "April 2011",
-			"periodEnd": "May 2012",
+			"periodStart": "April 2007",
+			"periodEnd": "May 2008",
 			"course": "All India Secondary School Examination",
-			"score": "10.00 CGPA",
-			"inst": "Jawahar Navodaya Vidyalaya,Washim",
-			"board": "CBSE Chennai",
+			"score": "93.80%",
+			"inst": "Bal Bhavan Public School",
+			"board": "CBSE Board",
 			"courses": [{
 					"courseCode": "041",
-					"courseName": "Mathemactics",
-					"courseScore": "10/10",
+					"courseName": "Mathematics",
+					"courseScore": "100/100",
 					"sn": 1
 				},
 				{
 					"courseCode": "086",
 					"courseName": "Science",
-					"courseScore": "10/10",
+					"courseScore": "93/100",
 					"sn": 2
 				}
 			]
