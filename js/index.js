@@ -122,9 +122,9 @@ $.get("js/profile.json",
 		$('#helloText').html(profile.helloText);
 		loadLinks(profile.profileLinks);
 		loadSkills(profile.skills);
-		loadProjects(profile.projects);
-		loadWorks(profile.works);
 		loadEducations(profile.educations);
+		loadWorks(profile.works);
+		loadProjects(profile.projects);
 		console.log(profile);
 });
 
