@@ -48,7 +48,7 @@
 
 
 .type.col.m4{
-	min-height: 300px;
+	min-height: 200px;
 }
 
 .row.project,.row.education,.row.work{
@@ -75,7 +75,7 @@
 }
 
 .tabs-content.carousel .carousel-item{
-	height:600px;
+	height:700px;
 	overflow-y: scroll;
 }
 
