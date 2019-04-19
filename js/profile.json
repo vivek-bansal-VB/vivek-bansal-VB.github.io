@@ -337,7 +337,7 @@
 			"sn":1, "projectTitle": "Model-View-Controller(MVC) architecture",
 			"periodStart": "Apr 2016",
 			"periodEnd": "June 2016",
-			"toolsUsed": ["MVC Architecture", "C++", "Design Patterns"],
+			"toolsUsed": ["MVC Architecture", "C++", "Design-Patterns"],
 			"tags": ["Adobe"],
 			"shortInfo": "Implemented Model-View-Controller(MVC) architecture to redesign Dita Reference dialogs like Xref Dialogs, Conref Dialogs, and Link Dialogs.",
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
@@ -346,7 +346,7 @@
 			"sn":2, "projectTitle": "32-bit architecture to 64-bit architecture",
 			"periodStart": "Mar 2017",
 			"periodEnd": "Dec 2017",
-			"toolsUsed": ["C++", "C", "PVS-Studio", "Dependency Walker"],
+			"toolsUsed": ["C++", "C", "PVS-Studio", "Dependency-Walker"],
 			"tags": ["Adobe"],
 			"shortInfo": "Ported our product from 32-bit architecture to 64-bit architecture by fixing many run-time issues like structure data members alignment, pointer truncation issues etc.",
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
@@ -355,7 +355,7 @@
 			"sn":3, "projectTitle": "InterProcess Communication",
 			"periodStart": "Oct 2017",
 			"periodEnd": "Dec 2017",
-			"toolsUsed": ["C++", "FIFO-Pipes", "Synchronous Communication"],
+			"toolsUsed": ["C++", "FIFO-Pipes", "Synchronous-Communication"],
 			"tags": ["Adobe"],
 			"shortInfo": "Implemented IPC mechanism using pipes to solve a non-trivial problem occurring while porting our product to 64-bit architecture. The problem was to load some 32-bit legacy DLLs in our 64-bit product. We build a wrapper 32-bit executable which loads 32-bit legacy DLLs and we were calling this executable from our 64-bit executable and handled communication via pipes. Prevented loading of this 32-bit executable every time by running this process in the background as a server to improve the performance.",
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
@@ -382,7 +382,7 @@
 			"sn":6, "projectTitle": "DUDEN Dictionary",
 			"periodStart": "Sep 2017",
 			"periodEnd": "Oct 2017",
-			"toolsUsed": ["C++", "FDK API", "C"],
+			"toolsUsed": ["C++", "FDK-API", "C"],
 			"tags": ["Adobe"],
 			"shortInfo": "Implemented DUDEN dictionary to support the latest spell checking and hyphenation methods for the German language (German, Swiss-German, and Austrian German).",
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
@@ -400,7 +400,7 @@
 			"sn":8, "projectTitle": "FDK Client",
 			"periodStart": "Oct 2015",
 			"periodEnd": "Dec 2015",
-			"toolsUsed": ["C++", "Factory Design Pattern", "Design Patterns", "FDK API"],
+			"toolsUsed": ["C++", "Factory-Design-Pattern", "Design-Patterns", "FDK-API"],
 			"tags": ["Adobe"],
 			"shortInfo": "Implemented an FDK client of document health report which reports unresolved graphic insets, text insets, cross-reference links in a document.",
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
@@ -409,7 +409,7 @@
 			"sn":9, "projectTitle": "Ranking-of-Academic-Papers",
 			"periodStart": "Nov 2018",
 			"periodEnd": "Dec 2018",
-			"toolsUsed": ["Python", "Stanford NER","Google Scholar", "Numpy", "Pandas"],
+			"toolsUsed": ["Python", "Stanford-NER","Google-Scholar", "Numpy", "Pandas"],
 			"tags": ["Stony Brook University", "Data Science"],
 			"shortInfo": "Predicted ranking of academic papers by considering author ranking, domain score, conference score, paper score etc. Author score and paper score were evaluated by their total number of citations count. ",
 			"link":"https://github.com/vivek-bansal-VB/Ranking-of-Academic-Papers"
@@ -418,7 +418,7 @@
 			"sn":10, "projectTitle": "New-York-Taxi-Fare-Predictions",
 			"periodStart": "Sep 2018",
 			"periodEnd": "Oct 2018",
-			"toolsUsed": ["Python", "Numpy", "Pandas", "RandomForest Regression Model"],
+			"toolsUsed": ["Python", "Numpy", "Pandas", "RandomForest-Regression"],
 			"tags": ["Stony Brook University", "Data Science"],
 			"shortInfo": "Predicted New York taxi fares using Random Forest Regressor model. ",
 			"link":"https://github.com/vivek-bansal-VB/New-York-Taxi-Fare-Predictions"
@@ -427,7 +427,7 @@
 			"sn":11, "projectTitle": "Google-Analytics-Customer-Revenue-Prediction",
 			"periodStart": "Oct 2018",
 			"periodEnd": "Nov 2018",
-			"toolsUsed": ["Python", "Numpy", "Pandas", "LGBM Regressor"],
+			"toolsUsed": ["Python", "Numpy", "Pandas", "LGBM-Regressor"],
 			"tags": ["Stony Brook University", "Data Science"],
 			"shortInfo": "Predicted customer revenue on google store using Light GBM gradient boosting algorithm. Also analyzed the features importance by comparing RMSE on different permutations of row values of features.",
 			"link":"https://github.com/vivek-bansal-VB/Google-Analytics-Customer-Revenue-Prediction"
@@ -436,7 +436,7 @@
 			"sn":12, "projectTitle": "Lamport-Distributed-Mutual-Exclusion-Algorithm",
 			"periodStart": "Sep 2018",
 			"periodEnd": "Oct 2018",
-			"toolsUsed": ["Python","Lamport Logical Clocks","Distalgo"],
+			"toolsUsed": ["Python","Lamport-Logical-Clocks","Distalgo"],
 			"tags": ["Stony Brook University", "Asynchronous Systems"],
 			"shortInfo": "Implemented Lamport Distributed mutual exclusion algorithm sending and receiving requests in an interleaving fashion. Also tested the correctness and performance of the algorithm using Monitor Class.",
 			"link":"https://github.com/vivek-bansal-VB/Lamport-Distributed-Mutual-Exclusion-Algorithm"
@@ -445,7 +445,7 @@
 			"sn":13, "projectTitle": "Lamport-Mutual-Exclusion-algorithm-in-TLA",
 			"periodStart": "Oct 2018",
 			"periodEnd": "Nov 2018",
-			"toolsUsed": ["Python","Lamport Logical Clocks","Distalgo", "TLA"],
+			"toolsUsed": ["Python","Lamport-Logical-Clocks","Distalgo", "TLA"],
 			"tags": ["Stony Brook University", "Asynchronous Systems"],
 			"shortInfo": "Distributed Mutex : specifying and verifying safety and efficiency properties of Lamport mutual exclusion algorithm in TLA.",
 			"link":"https://github.com/vivek-bansal-VB/Lamport-Mutual-Exclusion-algorithm-in-TLA"
@@ -454,7 +454,7 @@
 			"sn":14, "projectTitle": "Spam-Filter",
 			"periodStart": "Nov 2018",
 			"periodEnd": "Dec 2018",
-			"toolsUsed": ["Python","Naive Bayes"],
+			"toolsUsed": ["Python","Naive-Bayes"],
 			"tags": ["Stony Brook University", "Artificial Intelligence"],
 			"shortInfo": "Implemented the Naive Bayes algorithm to classify spam.",
 			"link":"https://github.com/vivek-bansal-VB/Spam-Filter"
@@ -463,7 +463,7 @@
 			"sn":15, "projectTitle": "Clickstream-Mining-with-Decision-Trees",
 			"periodStart": "Nov 2018",
 			"periodEnd": "Dec 2018",
-			"toolsUsed": ["Python","Decision Trees"],
+			"toolsUsed": ["Python","Decision-Trees"],
 			"tags": ["Stony Brook University", "Artificial Intelligence"],
 			"shortInfo": "The project was based on a task posed in KDD Cup 2000. It involves mining click-stream data collected from Gazelle.com, which sells legware products. Given a set of page views, will the visitor view another page on the site or will he leave? ",
 			"link":"https://github.com/vivek-bansal-VB/Clickstream-Mining-with-Decision-Trees"
