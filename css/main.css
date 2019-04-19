@@ -56,7 +56,6 @@
 	padding: 2%;
 	margin-top: 1%;
 	margin-bottom: 1%;
-	background: rgb(0, 204, 255);
 }
 
 #links .col.s2{
@@ -93,7 +92,6 @@
 	margin: 1%;
 	padding: 2%;
 	border-radius: 50%;
-	background: rgb(0, 204, 255);
 }
 
 
@@ -120,7 +118,6 @@
 
 .education.col.s12, .work.col.s12{
 	margin: 1%;
-	background: rgb(0, 204, 255);
 }
 
 
@@ -188,5 +185,6 @@ body{
 	font-family: "Lekton", monospace;
 }
 #pagea{
-	background-color: rgb(47, 0, 255);
+	background-color: rgb(0, 60, 255);
+	height: 100%;
 }
