@@ -534,7 +534,7 @@
 		{
 			"name": "Download Resume",
 			"icon": "download.png",
-			"link": "file:///Resume_vivek.pdf",
+			"link": "Resume_vivek.pdf",
 			"sn":1
 		}
 	],
