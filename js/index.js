@@ -90,6 +90,23 @@ function loadLinks(profileLinks){
 	$('#links').html(profileLinksInnerHTML);
 }
 
+function loadResume(resumedownload){
+	var i=0,j;			
+	resumedownload.sort(function(a,b){
+		return a.sn-b.sn;
+	});
+	var resumedownloadInnerHTML = '';
+	while(i<resumedownload.length){
+		resumedownloadInnerHTML+='<div class="row">'
+		for(j=i;j<resumedownload.length&&j<i+5;j++){
+			resumedownloadInnerHTML+='<div class="col s2">													<a href="'+resumedownload[j].link+'" target="_blank" >					<img src="img/'+resumedownload[j].icon+'" alt="'+resumedownload[j].name+'">															</a></div>';
+		}
+		resumedownloadInnerHTML+='</div>';
+		i=j;
+	}
+	$('#download').html(resumedownloadInnerHTML);
+}
+
 function loadLikes(likes){
 	likes = likes.sort(function(a,b){
 		return a.sn-b.sn;
@@ -121,6 +138,7 @@ $.get("js/profile.json",
 		loadLikes(profile.likes);
 		$('#helloText').html(profile.helloText);
 		loadLinks(profile.profileLinks);
+		loadResume(profile.resumedownload);
 		loadSkills(profile.skills);
 		loadEducations(profile.educations);
 		loadWorks(profile.works);
