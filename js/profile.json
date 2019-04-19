@@ -334,7 +334,7 @@
 	"projects":[
 		{
 
-			"sn":1, "projectTitle": "Model-View-Controller(MVC) architecture",
+			"sn":11, "projectTitle": "Model-View-Controller(MVC) architecture",
 			"periodStart": "Apr 2016",
 			"periodEnd": "June 2016",
 			"toolsUsed": ["MVC Architecture", "C++", "Design-Patterns"],
@@ -343,7 +343,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":2, "projectTitle": "32-bit architecture to 64-bit architecture",
+			"sn":12, "projectTitle": "32-bit architecture to 64-bit architecture",
 			"periodStart": "Mar 2017",
 			"periodEnd": "Dec 2017",
 			"toolsUsed": ["C++", "C", "PVS-Studio", "Dependency-Walker"],
@@ -352,7 +352,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":3, "projectTitle": "InterProcess Communication",
+			"sn":13, "projectTitle": "InterProcess Communication",
 			"periodStart": "Oct 2017",
 			"periodEnd": "Dec 2017",
 			"toolsUsed": ["C++", "FIFO-Pipes", "Synchronous-Communication"],
@@ -361,7 +361,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":4, "projectTitle": "MRU list",
+			"sn":14, "projectTitle": "MRU list",
 			"periodStart": "Jan 2018",
 			"periodEnd": "Mar 2018",
 			"toolsUsed": ["C++", "HTML", "CSS", "Javascript"],
@@ -370,7 +370,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":5, "projectTitle": "Welcome Screen on the Application",
+			"sn":15, "projectTitle": "Welcome Screen on the Application",
 			"periodStart": "Mar 2018",
 			"periodEnd": "May 2018",
 			"toolsUsed": ["C++", "HTML", "CSS", "Javascript"],
@@ -379,7 +379,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":6, "projectTitle": "DUDEN Dictionary",
+			"sn":16, "projectTitle": "DUDEN Dictionary",
 			"periodStart": "Sep 2017",
 			"periodEnd": "Oct 2017",
 			"toolsUsed": ["C++", "FDK-API", "C"],
@@ -388,7 +388,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":7, "projectTitle": "Cadence Issue",
+			"sn":17, "projectTitle": "Cadence Issue",
 			"periodStart": "Jan 2018",
 			"periodEnd": "Feb 2018",
 			"toolsUsed": ["C", "C++", "XML"],
@@ -397,7 +397,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":8, "projectTitle": "FDK Client",
+			"sn":18, "projectTitle": "FDK Client",
 			"periodStart": "Oct 2015",
 			"periodEnd": "Dec 2015",
 			"toolsUsed": ["C++", "Factory-Design-Pattern", "Design-Patterns", "FDK-API"],
@@ -406,7 +406,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":9, "projectTitle": "Ranking-of-Academic-Papers",
+			"sn":1, "projectTitle": "Ranking-of-Academic-Papers",
 			"periodStart": "Nov 2018",
 			"periodEnd": "Dec 2018",
 			"toolsUsed": ["Python", "Stanford-NER","Google-Scholar", "Numpy", "Pandas"],
@@ -415,7 +415,7 @@
 			"link":"https://github.com/vivek-bansal-VB/Ranking-of-Academic-Papers"
 		},
 		{
-			"sn":10, "projectTitle": "New-York-Taxi-Fare-Predictions",
+			"sn":2, "projectTitle": "New-York-Taxi-Fare-Predictions",
 			"periodStart": "Sep 2018",
 			"periodEnd": "Oct 2018",
 			"toolsUsed": ["Python", "Numpy", "Pandas", "RandomForest-Regression"],
@@ -424,7 +424,7 @@
 			"link":"https://github.com/vivek-bansal-VB/New-York-Taxi-Fare-Predictions"
 		},
 		{
-			"sn":11, "projectTitle": "Google-Analytics-Customer-Revenue-Prediction",
+			"sn":3, "projectTitle": "Google-Analytics-Customer-Revenue-Prediction",
 			"periodStart": "Oct 2018",
 			"periodEnd": "Nov 2018",
 			"toolsUsed": ["Python", "Numpy", "Pandas", "LGBM-Regressor"],
@@ -433,7 +433,7 @@
 			"link":"https://github.com/vivek-bansal-VB/Google-Analytics-Customer-Revenue-Prediction"
 		},
 		{
-			"sn":12, "projectTitle": "Lamport-Distributed-Mutual-Exclusion-Algorithm",
+			"sn":4, "projectTitle": "Lamport-Distributed-Mutual-Exclusion-Algorithm",
 			"periodStart": "Sep 2018",
 			"periodEnd": "Oct 2018",
 			"toolsUsed": ["Python","Lamport-Logical-Clocks","Distalgo"],
@@ -442,7 +442,7 @@
 			"link":"https://github.com/vivek-bansal-VB/Lamport-Distributed-Mutual-Exclusion-Algorithm"
 		},
 		{
-			"sn":13, "projectTitle": "Lamport-Mutual-Exclusion-algorithm-in-TLA",
+			"sn":5, "projectTitle": "Lamport-Mutual-Exclusion-algorithm-in-TLA",
 			"periodStart": "Oct 2018",
 			"periodEnd": "Nov 2018",
 			"toolsUsed": ["Python","Lamport-Logical-Clocks","Distalgo", "TLA"],
@@ -451,7 +451,7 @@
 			"link":"https://github.com/vivek-bansal-VB/Lamport-Mutual-Exclusion-algorithm-in-TLA"
 		},
 		{
-			"sn":14, "projectTitle": "Spam-Filter",
+			"sn":6, "projectTitle": "Spam-Filter",
 			"periodStart": "Nov 2018",
 			"periodEnd": "Dec 2018",
 			"toolsUsed": ["Python","Naive-Bayes"],
@@ -460,7 +460,7 @@
 			"link":"https://github.com/vivek-bansal-VB/Spam-Filter"
 		},
 		{
-			"sn":15, "projectTitle": "Clickstream-Mining-with-Decision-Trees",
+			"sn":7, "projectTitle": "Clickstream-Mining-with-Decision-Trees",
 			"periodStart": "Nov 2018",
 			"periodEnd": "Dec 2018",
 			"toolsUsed": ["Python","Decision-Trees"],
@@ -469,7 +469,7 @@
 			"link":"https://github.com/vivek-bansal-VB/Clickstream-Mining-with-Decision-Trees"
 		},
 		{
-			"sn":16, "projectTitle": "Role-Based-Access-Control-Model-in-Prolog",
+			"sn":8, "projectTitle": "Role-Based-Access-Control-Model-in-Prolog",
 			"periodStart": "Oct 2018",
 			"periodEnd": "Nov 2018",
 			"toolsUsed": ["Prolog"],
@@ -478,7 +478,7 @@
 			"link":"https://github.com/vivek-bansal-VB/Role-Based-Access-Control-Model-in-Prolog"
 		},
 		{
-			"sn":17, "projectTitle": "Adversarial-Search-Algorithms",
+			"sn":9, "projectTitle": "Adversarial-Search-Algorithms",
 			"periodStart": "Sep 2018",
 			"periodEnd": "Oct 2018",
 			"toolsUsed": ["Python", "Expectimax", "Minimax"],
@@ -487,7 +487,7 @@
 			"link":"https://github.com/vivek-bansal-VB/Adversarial-Search-Algorithms"
 		},
 		{
-			"sn":18, "projectTitle": "Pacman-Search-Strategies-BFS-DFS-UCS-AStar",
+			"sn":10, "projectTitle": "Pacman-Search-Strategies-BFS-DFS-UCS-AStar",
 			"periodStart": "Sep 2018",
 			"periodEnd": "Oct 2018",
 			"toolsUsed": ["Python", "BFS", "DFS"],
