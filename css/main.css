@@ -43,7 +43,7 @@
 }
 
 #pageb .tabs{
-	background: rgb(0, 4, 255);
+	background: rgb(102, 56, 91);
 }
 
 
@@ -75,7 +75,7 @@
 }
 
 .tabs-content.carousel .carousel-item{
-	height:750px;
+	height:800px;
 	overflow-y: scroll;
 	background-color: rgb(62, 56, 102);
 }
