@@ -43,7 +43,7 @@
 }
 
 #pageb .tabs{
-	background: green;
+	background: rgb(226, 64, 43);
 }
 
 
@@ -189,5 +189,5 @@ body{
 	font-family: "Lekton", monospace;
 }
 #pagea{
-	background-color: firebrick;
+	background-color: rgb(0, 89, 255);
 }
