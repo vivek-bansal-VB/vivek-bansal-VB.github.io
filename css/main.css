@@ -30,7 +30,7 @@
 
 #download img{	
 	width: 100%;
-	height: 80%;
+	height: 100%;
 	border-radius: 50%;
 }
 
@@ -40,9 +40,13 @@
 }
 
 #download .s2{
-	width: 60%;
-	margin-left: 20%;
-	margin-right: 20%;
+	width: 20%;
+	margin-left: 40%;
+	margin-right: 40%;
+	font-size: 14px;
+	font-weight: 800;
+	background-color: rgb(rgb(255, 0, 179), green, blue);
+	text-align: center;
 }
 
 .section{
