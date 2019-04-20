@@ -532,8 +532,8 @@
 	],
 	"resumedownload":[
 		{
-			"name": "Download Resume",
-			"icon": "download.png",
+			"name": "Resume",
+			"icon": "download.svg",
 			"link": "https://github.com/vivek-bansal-VB/vivek-bansal-VB.github.io/blob/master/Resume_vivek.pdf",
 			"sn":1
 		}
