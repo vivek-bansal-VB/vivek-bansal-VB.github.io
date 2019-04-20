@@ -99,7 +99,7 @@ function loadResume(resumedownload){
 	while(i<resumedownload.length){
 		resumedownloadInnerHTML+='<div class="row">'
 		for(j=i;j<resumedownload.length&&j<i+5;j++){
-			resumedownloadInnerHTML+='<div class="col s2">													<a href="'+resumedownload[j].link+'" target="_blank" >					<img src="img/'+resumedownload[j].icon+'" alt="'+resumedownload[j].name+'">															</a></div>';
+			resumedownloadInnerHTML+='<div class="col s2">													<a href="'+resumedownload[j].link+'" target="_blank" >					<img src="img/'+resumedownload[j].icon+'" alt="'+resumedownload[j].name+'">	Download Resume														</a></div>';
 		}
 		resumedownloadInnerHTML+='</div>';
 		i=j;
