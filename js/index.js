@@ -127,7 +127,6 @@ $.get("js/profile.json",
 		$('title').html(pInfo.fname+'|Portfolio');
 		$('#name').html(pInfo.fname+' '+pInfo.lname);
 		$('#image img').attr('src','img/'+pInfo.myimg);
-		$('#contact').html('Call me: '+pInfo.mob+'</br> Mail me: '+pInfo.email);
 		$('#summary p').html(profile.summary);
 		Typed.new('#believe span', {
 			strings: profile.qoutes,
