@@ -15,7 +15,7 @@
 			"periodStart": "August 2018",
 			"periodEnd": "December 2019",
 			"course": "MS in Computer Science",
-			"score": "3.6 CGPA",
+			"score": "3.75 CGPA",
 			"inst": "Stony Brook University",
 			"board": "State University of New York",
 			"courses": [
@@ -50,28 +50,28 @@
 				{
 					"courseCode": "CSE-506",
 					"courseName": "Operating Systems",
-					"courseScore": "-",
+					"courseScore": "A",
 					"sn": 5
 
 				},
 				{
 					"courseCode": "CSE-527",
 					"courseName": "Computer Vision",
-					"courseScore": "-",
+					"courseScore": "A-",
 					"sn": 6
 
 				},
 				{
 					"courseCode": "AMS-560",
 					"courseName": "Big Data Systems, Algorithms and Networks",
-					"courseScore": "-",
+					"courseScore": "A",
 					"sn": 7
 
 				},
 				{
 					"courseCode": "CSE-642",
 					"courseName": "Seminar in Algorithms (Algorithms Reading Group)",
-					"courseScore": "-",
+					"courseScore": "S",
 					"sn": 8
 
 				}
