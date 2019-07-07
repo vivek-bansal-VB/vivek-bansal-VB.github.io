@@ -81,7 +81,7 @@ function loadLinks(profileLinks){
 	var profileLinksInnerHTML = '';
 	while(i<profileLinks.length){
 		profileLinksInnerHTML+='<div class="row">'
-		for(j=i;j<profileLinks.length&&j<i+5;j++){
+		for(j=i;j<profileLinks.length&&j<i+4;j++){
 			profileLinksInnerHTML+='<div class="col s2">													<a href="'+profileLinks[j].link+'" target="_blank" >					<img src="img/'+profileLinks[j].icon+'" alt="'+profileLinks[j].name+'">															</a></div>';
 		}
 		profileLinksInnerHTML+='</div>';
