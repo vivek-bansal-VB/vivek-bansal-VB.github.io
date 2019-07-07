@@ -315,14 +315,21 @@
 	],
 	"works": [
 		{
-			"sn":1,"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker","workPosition": "Senior Member of Technical Staff",
+			"sn":1,"link":"https://en.wikipedia.org/wiki/Adobe_Photoshop","workPosition": "Software Development Intern",
+			"periodStart": "June 2019",
+			"periodEnd": "Present",
+			"organisation": "Adobe, New York",
+			"experience": "I am doing my software development summer internship in Adobe Photoshop Engineering team".
+		},
+		{
+			"sn":2,"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker","workPosition": "Senior Member of Technical Staff",
 			"periodStart": "October 2015",
 			"periodEnd": "August 2018",
 			"organisation": "Adobe, Noida",
 			"experience": "I worked in Adobe FrameMaker Team where I implemented many crucial features for our product. I was part of Adobe FrameMaker 2017 release and also developed many features for FrameMaker 2019 release. I fixed many bugs in a rigorous environment for the patch releases of our product. I was awarded Adobe Bravo Spot Award and got promoted to Senior MTS for my exceptional performance in the team."
 		},
 		{
-			"sn":2,"link":"https://www.sandisk.com","workPosition": "Software Engineer",
+			"sn":3,"link":"https://www.sandisk.com","workPosition": "Software Engineer",
 			"periodStart": "July 2014",
 			"periodEnd": " September 2015",
 			"organisation": "SanDisk, Bangalore",
