@@ -407,15 +407,17 @@
 			"periodEnd": "Apr 2015",
 			"toolsUsed": ["C"],
 			"tags": ["SanDisk"],
-			"shortInfo": "Implemented an FDK client of document health report which reports unresolved graphic insets, text insets, cross-reference links in a document."
+			"shortInfo": " Implementation of Double Fine Programming methodology as the memory is not that much reliable to retain the data after single fine programming. This algorithm increased the memory utilization by around 3-4%",
+			"link": "https://en.wikipedia.org/wiki/SanDisk"
 		},
 		{
-			"sn":19, "projectTitle": "Double-Fine Programming in NAND Memory",
+			"sn":19, "projectTitle": "Compaction Framework",
 			"periodStart": "May 2015",
 			"periodEnd": "Sept 2015",
 			"toolsUsed": ["C"],
 			"tags": ["SanDisk"],
-			"shortInfo": "Implemented an FDK client of document health report which reports unresolved graphic insets, text insets, cross-reference links in a document."
+			"shortInfo": "Formulated and created a new framework for compaction to increase the memory utilization by 8%",
+			"link": "https://en.wikipedia.org/wiki/SanDisk"
 		},
 		{
 			"sn":1, "projectTitle": "Ranking-of-Academic-Papers",
