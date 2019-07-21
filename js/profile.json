@@ -339,7 +339,7 @@
 	"projects":[
 		{
 
-			"sn":11, "projectTitle": "Model-View-Controller(MVC) architecture",
+			"sn":15, "projectTitle": "Model-View-Controller(MVC) architecture",
 			"periodStart": "Apr 2016",
 			"periodEnd": "June 2016",
 			"toolsUsed": ["MVC Architecture", "C++", "Design-Patterns"],
@@ -348,25 +348,16 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":12, "projectTitle": "32-bit architecture to 64-bit architecture",
+			"sn":11, "projectTitle": "32-bit architecture to 64-bit architecture",
 			"periodStart": "Mar 2017",
 			"periodEnd": "Dec 2017",
 			"toolsUsed": ["C++", "C", "PVS-Studio", "Dependency-Walker"],
 			"tags": ["Adobe"],
-			"shortInfo": "Ported our product from 32-bit architecture to 64-bit architecture by fixing many run-time issues like structure data members alignment, pointer truncation issues etc.",
+			"shortInfo": "Ported our product from 32-bit architecture to 64-bit architecture by fixing many run-time issues like structure data members alignment, pointer truncation issues etc. Also, implemented IPC mechanism using pipes to solve a non-trivial problem occurring while porting our product to 64-bit architecture. The problem was to load some 32-bit legacy DLLs in our 64-bit product. We build a wrapper 32-bit executable which loads 32-bit legacy DLLs and we were calling this executable from our 64-bit executable and handled communication via pipes. Prevented loading of this 32-bit executable every time by running this process in the background as a server to improve the performance.",
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":13, "projectTitle": "InterProcess Communication",
-			"periodStart": "Oct 2017",
-			"periodEnd": "Dec 2017",
-			"toolsUsed": ["C++", "FIFO-Pipes", "Synchronous-Communication"],
-			"tags": ["Adobe"],
-			"shortInfo": "Implemented IPC mechanism using pipes to solve a non-trivial problem occurring while porting our product to 64-bit architecture. The problem was to load some 32-bit legacy DLLs in our 64-bit product. We build a wrapper 32-bit executable which loads 32-bit legacy DLLs and we were calling this executable from our 64-bit executable and handled communication via pipes. Prevented loading of this 32-bit executable every time by running this process in the background as a server to improve the performance.",
-			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
-		},
-		{
-			"sn":14, "projectTitle": "MRU list",
+			"sn":13, "projectTitle": "MRU and Favorites Files list",
 			"periodStart": "Jan 2018",
 			"periodEnd": "Mar 2018",
 			"toolsUsed": ["C++", "HTML", "CSS", "Javascript"],
@@ -375,7 +366,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":15, "projectTitle": "Welcome Screen on the Application",
+			"sn":14, "projectTitle": "Welcome Screen on the Application",
 			"periodStart": "Mar 2018",
 			"periodEnd": "May 2018",
 			"toolsUsed": ["C++", "HTML", "CSS", "Javascript"],
@@ -402,7 +393,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":18, "projectTitle": "FDK Client",
+			"sn":12, "projectTitle": "FDK Client",
 			"periodStart": "Oct 2015",
 			"periodEnd": "Dec 2015",
 			"toolsUsed": ["C++", "Factory-Design-Pattern", "Design-Patterns", "FDK-API"],
