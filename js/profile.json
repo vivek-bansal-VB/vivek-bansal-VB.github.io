@@ -402,6 +402,22 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
+			"sn":18, "projectTitle": "Double-Fine Programming in NAND Memory",
+			"periodStart": "Sept 2014",
+			"periodEnd": "Apr 2015",
+			"toolsUsed": ["C"],
+			"tags": ["SanDisk"],
+			"shortInfo": "Implemented an FDK client of document health report which reports unresolved graphic insets, text insets, cross-reference links in a document."
+		},
+		{
+			"sn":19, "projectTitle": "Double-Fine Programming in NAND Memory",
+			"periodStart": "May 2015",
+			"periodEnd": "Sept 2015",
+			"toolsUsed": ["C"],
+			"tags": ["SanDisk"],
+			"shortInfo": "Implemented an FDK client of document health report which reports unresolved graphic insets, text insets, cross-reference links in a document."
+		},
+		{
 			"sn":1, "projectTitle": "Ranking-of-Academic-Papers",
 			"periodStart": "Nov 2018",
 			"periodEnd": "Dec 2018",
