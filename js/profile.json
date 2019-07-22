@@ -339,7 +339,7 @@
 	"projects":[
 		{
 
-			"sn":15, "projectTitle": "Model-View-Controller(MVC) architecture",
+			"sn":23, "projectTitle": "Model-View-Controller(MVC) architecture",
 			"periodStart": "Apr 2016",
 			"periodEnd": "June 2016",
 			"toolsUsed": ["MVC Architecture", "C++", "Design-Patterns"],
@@ -348,7 +348,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":11, "projectTitle": "32-bit architecture to 64-bit architecture",
+			"sn":19, "projectTitle": "32-bit architecture to 64-bit architecture",
 			"periodStart": "Mar 2017",
 			"periodEnd": "Dec 2017",
 			"toolsUsed": ["C++", "C", "PVS-Studio", "Dependency-Walker"],
@@ -357,7 +357,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":13, "projectTitle": "MRU and Favorites Files list",
+			"sn":21, "projectTitle": "MRU and Favorites Files list",
 			"periodStart": "Jan 2018",
 			"periodEnd": "Mar 2018",
 			"toolsUsed": ["C++", "HTML", "CSS", "Javascript"],
@@ -366,7 +366,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":14, "projectTitle": "Welcome Screen on the Application",
+			"sn":22, "projectTitle": "Welcome Screen on the Application",
 			"periodStart": "Mar 2018",
 			"periodEnd": "May 2018",
 			"toolsUsed": ["C++", "HTML", "CSS", "Javascript"],
@@ -375,7 +375,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":16, "projectTitle": "DUDEN Dictionary",
+			"sn":24, "projectTitle": "DUDEN Dictionary",
 			"periodStart": "Sep 2017",
 			"periodEnd": "Oct 2017",
 			"toolsUsed": ["C++", "FDK-API", "C"],
@@ -384,7 +384,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":17, "projectTitle": "Cadence Issue",
+			"sn":25, "projectTitle": "Cadence Issue",
 			"periodStart": "Jan 2018",
 			"periodEnd": "Feb 2018",
 			"toolsUsed": ["C", "C++", "XML"],
@@ -393,7 +393,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":12, "projectTitle": "FDK Client",
+			"sn":20, "projectTitle": "FDK Client",
 			"periodStart": "Oct 2015",
 			"periodEnd": "Dec 2015",
 			"toolsUsed": ["C++", "Factory-Design-Pattern", "Design-Patterns", "FDK-API"],
@@ -402,7 +402,7 @@
 			"link":"https://en.wikipedia.org/wiki/Adobe_FrameMaker"
 		},
 		{
-			"sn":18, "projectTitle": "Double-Fine Programming in NAND Memory",
+			"sn":26, "projectTitle": "Double-Fine Programming in NAND Memory",
 			"periodStart": "Sept 2014",
 			"periodEnd": "Apr 2015",
 			"toolsUsed": ["C"],
@@ -411,7 +411,7 @@
 			"link": "https://en.wikipedia.org/wiki/SanDisk"
 		},
 		{
-			"sn":19, "projectTitle": "Compaction Framework",
+			"sn":27, "projectTitle": "Compaction Framework",
 			"periodStart": "May 2015",
 			"periodEnd": "Sept 2015",
 			"toolsUsed": ["C"],
